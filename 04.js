@@ -13,6 +13,7 @@ function numeroSimetrico(num) {
   // numeroSimetrico(11711) devuelve true
 
   // Tu código:
+if (numAlReves===numToString)   return true='num'==11711; } else { return false='num'!= 11711;  }
 
 }
 
